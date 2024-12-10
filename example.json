@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How long does it take for Earth to orbit the sun?",
+    "options": ["365", "355", "375"],
+    "answer": "365"
+  },
+  {
+    "question": "At what temperature (celsius) does water boil?",
+    "options": ["80°", "90°", "100°"],
+    "answer": "100°"
+  },
+  {
+    "question": "Is a banana a berry, fruit or a vegetable?",
+    "options": ["berry", "fruit", "veg"],
+    "answer": "berry"
+  },
+  {
+    "question": "After how long does honey go bad?",
+    "options": ["1 day", "1 year", "never"],
+    "answer": "never"
+  },
+  {
+    "question": "Are there more stars in the universe than there are grains of sand on Earth?",
+    "options": ["yes", "no", "same"],
+    "answer": "yes"
+  }
+]
