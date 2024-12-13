@@ -1,2 +1,2 @@
-https://github.com/Dabdiiusuf/myQuiz 
+https://github.com/Dabdiiusuf/Quiz-game.git
 https://my-quiz-game-project.netlify.app/ 
